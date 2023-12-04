@@ -1,5 +1,7 @@
 # Notes App
 
+*A simple command-line note-taking app in Node.js*
+
 ## ADD Note
 ```
 node app.js add --title="do homework" --body="Do the dataMining Task"
