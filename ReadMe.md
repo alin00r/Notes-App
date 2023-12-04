@@ -20,7 +20,7 @@ node app.js list
 
 ## Search by Note Using title
 ```
-node app.js remove --title="do homework" --body="Do the dataMining Task"
+node app.js read --title="do homework"
 ```
 ![image](https://github.com/alin00r/Notes-App/assets/74410154/edb29297-3811-4b63-bb53-27db714f6d5f)
 
